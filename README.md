@@ -1,6 +1,6 @@
 # bt-in-githab-server
 使用方法
-白嫖githab服务器
+白嫖github服务器
 前提：先创建这个仓库的代码空间
 1先运行【sudo su】（获取root权限）
 2看官网bt.cn Linux安装命令全能脚本，让后运行（安装宝塔面板）
